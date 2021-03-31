@@ -11,3 +11,6 @@ Send email to specified email each morning with new results
 
 Ditto for glassdoor
 
+Thoughts:
+    Do I add .env?
+    Is log in necessary?
