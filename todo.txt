@@ -1,0 +1,13 @@
+Requirements for Project:
+
+Log into Indeed.com
+
+Input Job Title, City, and Experience Level
+
+Scrape all job postings that match
+	Include title, description, link, salary estimate, and date posted
+
+Send email to specified email each morning with new results
+
+Ditto for glassdoor
+
