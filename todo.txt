@@ -11,6 +11,10 @@ Send email to specified email each morning with new results
 
 Ditto for glassdoor
 
-Thoughts:
+Thoughts 3/31:
     Do I add .env?
     Is log in necessary?
+        No
+    Multiple tables for different locations? Or all one on a list or locations/titles?
+    How to set experience level?
+
