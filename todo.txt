@@ -18,3 +18,8 @@ Thoughts 3/31:
     Multiple tables for different locations? Or all one on a list or locations/titles?
     How to set experience level?
 
+Thoughts 4/4:
+    Added .env to show formatting and for potential use later
+    Need to add emails to .env
+    Email structure?
+        How do I scrape to show in the email? Do I just send links or do I make it look nice.
